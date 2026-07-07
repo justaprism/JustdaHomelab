@@ -8,13 +8,13 @@ All in all this is just a little repository for my homelabbing issues and thing 
 
 > - **MODEM**- AT&T Fiber Modem/Router
 
-**SWITCHES**- Cisco Catalyst 3750 x2
+> - **SWITCHES**- Cisco Catalyst 3750 x2
 
-*SERVER 1 - SuperMicro SE5000
+> - **SERVER 1** - SuperMicro SE5000
 
-*SERVER 2 - Old Custom Gaming PC
+> - **SERVER 2** - Old Custom Gaming PC
 
-*DNS Blocker - Rasberry PI Zero 2W
+> - **DNS Blocker** - Rasberry PI Zero 2W
 
 *MAIN MACHINE 
 -CPU: Ryzen 7 5800x
