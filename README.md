@@ -6,9 +6,9 @@ All in all this is just a little repository for my homelabbing issues and thing 
 
 > - **ROUTER** - NETGEAR R6220
 
-*MODEM- AT&T Fiber Modem/Router
+> - **MODEM**- AT&T Fiber Modem/Router
 
-*SWITCHES- Cisco Catalyst 3750 x2
+**SWITCHES**- Cisco Catalyst 3750 x2
 
 *SERVER 1 - SuperMicro SE5000
 
