@@ -16,7 +16,7 @@ All in all this is just a little repository for my homelabbing issues and thing 
 
 > - **DNS Blocker** - Rasberry PI Zero 2W
 
-**MAIN MACHINE** 
+> - **MAIN MACHINE** 
 -CPU: Ryzen 7 5800x
 -GPU: Radeon RX6950XT
 -RAM : Corsair Dominator 32gb 3600mhz
